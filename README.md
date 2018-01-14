@@ -1,10 +1,15 @@
-## Slate - A simple text editor
+# Slate - A simple text editor
 
 Slate is an easy to use text editor with productive functionalities and short cuts to fasten the process of preparing a simple text document. You can create, edit and view existing files and use features like Find and Replace to quickly make modifications to the document. Slate is fully cross-platform since it’s a purely Java application. You can run it on your Windows, Linux or OSX machine without any hassle. You get all the features no matter where you run it.
 
 Slate is built using Java SE 8, the latest and greatest implementation of Java. It makes use of lambda expressions to simplify the process of implementing many of the functionalities that otherwise required more resources. Since it’s a pure Java application, extensive use of the Swing library has been applied to create the vivid GUI interface that’s seen in the application. This makes it easy to interact with the elements whilst maintaining a familiarity with existing applications. Users can quickly jump into action with Slate
 
-**Screenshots:**
+## Authors
+Amol Suraj Mishra ([@amolmishra23](https://github.com/amolmishra23))<br>
+Aadithyavarma ([@aadithyavarma](https://github.com/aadithyavarma))<br>
+Sangeeth Sudheer ([@sangeeth96](https://github.com/sangeeth96))
+
+## Screenshots
 
 ![](https://i.imgur.com/QxSRbwk.jpg)
 
